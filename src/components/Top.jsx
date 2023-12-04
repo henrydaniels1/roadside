@@ -1,5 +1,6 @@
 import lottie from 'lottie-web';
 import { defineElement } from 'lord-icon-element';
+import img from '/img1.png'
 
 // define "lord-icon" custom element with default properties
 defineElement(lottie.loadAnimation);
@@ -19,7 +20,7 @@ function Top ()
                             
 <button id="dropdownUserAvatarButton" data-dropdown-toggle="dropdownAvatar" className="flex text-sm bg-gray-800 rounded-full md:me-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" type="button">
 <span className="sr-only">Open user menu</span>
-<img className="w-8 h-8 rounded-full" src="../../public/img1.png" alt="user photo"/>
+<img className="w-8 h-8 rounded-full" src={img} alt="user photo"/>
 </button>
 
 
