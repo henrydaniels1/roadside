@@ -17,7 +17,7 @@ function Navbar ()
         <>
             
             <div className="w-full bg-blue-900">
-                <div className="w-full  p-2 flex justify-between">
+                <div className="w-full  py-2 px-4 flex justify-between">
                     <div className="space-y-2 text-white flex flex-col-reverse items-center justify-center">
                         <p>Home</p> 
                         <div>

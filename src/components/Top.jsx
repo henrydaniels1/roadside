@@ -12,7 +12,7 @@ function Top ()
                 <div className="w-full p-4 bg-blue-900 ">
                     <div className="w-full flex justify-between items-center">
                         <div className="w-[70%]">
-                            <input type="search" placeholder="Find Services" className="w-full rounded-lg" />
+                            <input type="search" placeholder="Find Services" className="w-full rounded-lg p-2" />
                             
                         </div>
                         <div>
