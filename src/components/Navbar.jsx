@@ -24,8 +24,8 @@ function Navbar ()
                            <lord-icon
     src="https://cdn.lordicon.com/wmwqvixz.json"
     trigger="loop"
-    delay="2000"
-   style={{width:"25px", height:"25px"}}>
+    delay="5000"
+    style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
                     </div>
@@ -35,7 +35,7 @@ function Navbar ()
                           <lord-icon
     src="https://cdn.lordicon.com/dafdkyyt.json"
     trigger="loop"
-    delay="2000"
+    delay="5000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
@@ -46,7 +46,7 @@ function Navbar ()
                             <lord-icon
     src="https://cdn.lordicon.com/lznlxwtc.json"
     trigger="loop"
-    delay="2000"
+    delay="5000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
@@ -57,7 +57,7 @@ function Navbar ()
                            <lord-icon
     src="https://cdn.lordicon.com/ayhtotha.json"
     trigger="loop"
-    delay="2000"
+    delay="5000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
