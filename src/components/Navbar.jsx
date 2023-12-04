@@ -16,33 +16,51 @@ function Navbar ()
     return (
         <>
             
-            <div className="w-full">
+            <div className="w-full bg-blue-900">
                 <div className="w-full  p-2 flex justify-between">
-                    <div className="space-y-2 text-white flex flex-col items-center justify-center">
+                    <div className="space-y-2 text-white flex flex-col-reverse items-center justify-center">
                         <p>Home</p> 
                         <div>
-                           <lord-icon src="https://cdn.lordicon.com/qeltvbrs.json" trigger="loop" stroke="bold" delay="2000"
-                s           style={{width:"25px", height:"25px"}}></lord-icon>
-                        </div>
-                    </div>
-                    <div className="space-y-2 text-white flex flex-col items-center justify-center">
-                        <p>History</p> 
-                        <div>
-                            <lord-icon
-    src="https://cdn.lordicon.com/xsqjakgm.json"
+                           <lord-icon
+    src="https://cdn.lordicon.com/wmwqvixz.json"
     trigger="loop"
     delay="2000"
-      style={{width:"25px", height:"25px"}}>
+   style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
                     </div>
-                    <div className="space-y-2 text-white  flex flex-col items-center justify-center">
-                        <p>Notification</p> 
-                        <div></div>
+                    <div className="space-y-2 text-white flex flex-col-reverse items-center justify-center">
+                        <p>Orders</p> 
+                        <div>
+                          <lord-icon
+    src="https://cdn.lordicon.com/dafdkyyt.json"
+    trigger="loop"
+    delay="2000"
+    style={{width:"25px", height:"25px"}}>
+</lord-icon>
+                        </div>
                     </div>
-                    <div className="space-y-2 text-white  flex flex-col items-center justify-center">
-                        <p>Profile</p> 
-                        <div></div>
+                    <div className="space-y-2 text-white  flex flex-col-reverse items-center justify-center">
+                        <p>Notification</p> 
+                        <div>
+                            <lord-icon
+    src="https://cdn.lordicon.com/lznlxwtc.json"
+    trigger="loop"
+    delay="2000"
+    style={{width:"25px", height:"25px"}}>
+</lord-icon>
+                        </div>
+                    </div>
+                    <div className="space-y-2 text-white  flex flex-col-reverse items-center justify-center">
+                        <p>Chat</p> 
+                        <div>
+                           <lord-icon
+    src="https://cdn.lordicon.com/ayhtotha.json"
+    trigger="loop"
+    delay="2000"
+    style={{width:"25px", height:"25px"}}>
+</lord-icon>
+                        </div>
                     </div>
                     
                 </div>

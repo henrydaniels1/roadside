@@ -6,7 +6,7 @@ function Page1 ()
     return (
         <>
             <div className="h-[100svh] w-full">
-                <div className="h-full w-full bg-blue-900 flex ">
+                <div className="h-full w-full  flex ">
                     <div className='w-full flex flex-col justify-between'>
                         <Top/>
 
