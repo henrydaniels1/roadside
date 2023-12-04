@@ -10,11 +10,11 @@ function Page1 ()
                     <div className='w-full flex flex-col justify-between'>
                         <Top/>
 
-                    <div className="main">
+                        <div className="main">
 
-                    </div>
+                        </div>
                     
-                   <Navbar/>
+                        <Navbar/>
 
                     </div>
                 </div>
