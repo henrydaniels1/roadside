@@ -11,14 +11,14 @@ function Top ()
             <div className="w-full">
                 <div className="w-full p-4 bg-blue-900 ">
                     <div className="w-full flex justify-between items-center">
-                        <div className="w-[70%]">
-                            <input type="search" placeholder="Find Services" className="w-full rounded-lg p-2" />
+                        <div className="w-[90%]">
+                            <input type="search" placeholder="Find Services" className="w-full rounded-lg py-2 px-4" />
                             
                         </div>
                         <div>
                             <lord-icon
     src="https://cdn.lordicon.com/kthelypq.json"
-    trigger="hover"
+    trigger="in"
     delay="2000"
     style={{width:"25px", height:"25px"}}>
                             </lord-icon>
