@@ -5,7 +5,7 @@ function Home ()
 {
     return (
         <>
-            <div className="h-[100svh] bg-blue-900 w-full">
+            <div className="h-[100svh] bg-[#4faeac] w-full">
                 <div className="w-full h-full  flex items-end justify-center ">
 
                     <div className="h-[50svh] w-full flex items-center flex-col  ">

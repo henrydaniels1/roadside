@@ -16,15 +16,15 @@ function Navbar ()
     return (
         <>
             
-            <div className="w-full bg-blue-900">
+            <div className="w-full bg-[#7673E5]  static">
                 <div className="w-full  py-2 px-4 flex justify-between">
                     <div className="space-y-2 text-white flex flex-col-reverse items-center justify-center">
                         <p>Home</p> 
                         <div>
-                           <lord-icon
-    src="https://cdn.lordicon.com/wmwqvixz.json"
+                           <lord-icon src="https://cdn.lordicon.com/wmwqvixz.json"
     trigger="loop"
-    delay="5000"
+                                delay="1000"
+                                colors="primary:#ffffff"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
@@ -35,7 +35,7 @@ function Navbar ()
                           <lord-icon
     src="https://cdn.lordicon.com/dafdkyyt.json"
     trigger="loop"
-    delay="5000"
+    delay="1000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
@@ -46,7 +46,7 @@ function Navbar ()
                             <lord-icon
     src="https://cdn.lordicon.com/lznlxwtc.json"
     trigger="loop"
-    delay="5000"
+    delay="1000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
@@ -57,7 +57,7 @@ function Navbar ()
                            <lord-icon
     src="https://cdn.lordicon.com/ayhtotha.json"
     trigger="loop"
-    delay="5000"
+    delay="1000"
     style={{width:"25px", height:"25px"}}>
 </lord-icon>
                         </div>
