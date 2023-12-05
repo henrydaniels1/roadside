@@ -1,14 +1,15 @@
 import Services from './Services.jsx'
+import Container1 from './Container1'
 
 function Pay ()
 {
     return (
         <>
-            <div className="w-full bg-blue-300 mt-[6rem]">
-                <div className="w-[92%] mx-auto  rounded-lg bg-red-500 space-y-10">
+            <div className="w-full  mt-[6rem]">
+                <div className="w-[92%] mx-auto  rounded-lg  space-y-10">
 
 <Services/>
-
+<Container1/>
                 </div>
             </div> 
            
