@@ -1,10 +1,6 @@
-// import { StyleSheet, View } from 'react-native';
-// import { useEffect, useRef } from 'react';
-// import { Player } from '@lordicon/react';
 import lottie from 'lottie-web';
 import { defineElement } from 'lord-icon-element';
 
-// define "lord-icon" custom element with default properties
 defineElement(lottie.loadAnimation);
 
 
@@ -16,7 +12,7 @@ function Navbar ()
     return (
         <>
             
-            <div className="w-full bg-[#7673E5]  static">
+            <div className="w-full bg-[#7673E5] fixed bottom-0 left-0">
                 <div className="w-full  py-2 px-4 flex justify-between">
                     <div className="space-y-2 text-white flex flex-col-reverse items-center justify-center">
                         <p>Home</p> 
