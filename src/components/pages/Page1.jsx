@@ -8,6 +8,7 @@ function Page1 ()
         <div className="h-[100svh] w-full">
             <Top />
             <Pay/>
+            
             <Navbar/>
         </div>
     )

@@ -8,7 +8,8 @@ defineElement(lottie.loadAnimation);
 function Top ()
 {
     return (
-        <>
+      <>
+        
             <div className="w-full fixed top-0 left-0">
                 <div className="w-full p-4 bg-[#7673E5] ">
                     <div className="w-full flex justify-between items-center">
