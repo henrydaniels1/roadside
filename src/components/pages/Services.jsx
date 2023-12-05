@@ -12,7 +12,7 @@ function Services ()
                         </div>
                         <div><button className="p-2 rounded-xl bg-purple-500 text-white">Create now &rarr;</button></div>
                     </div>
-                    <div className=" w-[35%]">p</div>
+                    <div className=" w-[35%]"></div>
                     
                     
                 </div>
