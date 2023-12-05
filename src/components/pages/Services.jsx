@@ -2,10 +2,10 @@ function Services ()
 {
     return (
         <>
-            <div className="w-full">
-                <div className="w-full mx-auto  rounded-lg flex">
+            <div className="w-full rounded-lg ">
+                <div className="w-full mx-auto flex">
 
-                    <div className=" w-[65%] p-2 space-y-2">
+                    <div className="bg-blue-500 w-[65%] p-2 space-y-2">
                         <div>
                         <p>Become a Service seller</p>
                         <p>Get more money using your skill</p>
