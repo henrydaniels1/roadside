@@ -13,7 +13,7 @@ function Top ()
             <div className="w-full fixed top-0 left-0">
                 <div className="w-full p-4 bg-[#7673E5] ">
                     <div className="w-full flex justify-between items-center">
-                        <div className="w-[90%]">
+                        <div className="w-[86%]">
                             <input type="search" placeholder="Find Services" className="w-full rounded-lg py-2 px-4" />
                             
                         </div>

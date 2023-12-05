@@ -1,4 +1,5 @@
 import mech from '/mechanic.png'
+import phone from '/service.png'
 function Container1 ()
 {
     return (
@@ -11,8 +12,8 @@ function Container1 ()
                         <div className="text-white">Mechanics</div>
                     </div>    
                    <div className="w-[48%] rounded-lg  py-4 bg-purple-500 flex flex-col items-center justify-center">
-                        <div className="flex items-center justify-center"><img src={ mech }></img></div>
-                        <div className="text-white">Mechanics</div>
+                        <div className="flex items-center justify-center"><img src={ phone }></img></div>
+                        <div className="text-white">Phone repairs</div>
                     </div>    
                        
                     
