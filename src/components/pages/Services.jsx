@@ -8,7 +8,7 @@ function Services ()
                     <div className=" w-[65%] p-2 space-y-2">
                         <div >
                         <p className="font-bold ">Become a Service seller</p>
-                        <p className=" text-gray-500">Get more money using your skill</p>
+                        <p className="">Get more money using your skill</p>
                         </div>
                         <div><button className="p-2 rounded-xl bg-purple-500 text-white">Create now &rarr;</button></div>
                     </div>
