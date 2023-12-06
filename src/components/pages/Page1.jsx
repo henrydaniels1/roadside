@@ -7,7 +7,8 @@ function Page1 ()
     return (
         <div className="h-[100svh] w-full">
             <Top />
-            <Pay/>
+<div className="">
+            <Pay/></div>
             
             <Navbar/>
         </div>

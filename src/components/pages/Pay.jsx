@@ -5,15 +5,23 @@ function Pay ()
 {
     return (
         <>
-            <div className="w-full  mt-[6rem]">
-                <div className="w-[92%] mx-auto  rounded-lg  space-y-10">
+            <div className="w-full  mt-[6rem] mb-[6rem]">
+                <div className="w-[92%] mx-auto  rounded-lg  space-y-6">
 
                     <Services />
-                    <div className="space-y-6">
-<Container1/>
-<Container1/>
-<Container1/>
-</div>
+
+                    <div className=" space-y-6">
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>
+                        <Container1/>       
+                    </div>
+
                 </div>
             </div> 
            
